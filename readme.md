@@ -13,5 +13,8 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 - from root directory, Run the command
 
     `docker-compose up`
+- if every thing is ok, you should be able to go
+    to http://localhost:3000/api/ping and get response
+- also, you can go to http://localhost:3001/register and register a new user
 
 
